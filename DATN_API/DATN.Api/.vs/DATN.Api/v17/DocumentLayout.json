@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\Coding\\DATN_API\\DATN.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E985AB9B-0440-4A92-AECD-6D5AF6C1AD39}|MaHoa.Application\\MaHoa.Application.csproj|c:\\users\\admin\\desktop\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\coding\\datn_api\\datn.api\\mahoa.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E985AB9B-0440-4A92-AECD-6D5AF6C1AD39}|MaHoa.Application\\MaHoa.Application.csproj|solutionrelative:mahoa.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34159D1-97EC-4AA5-8924-8EC927150203}|DATN.Infrastructure\\DATN.Infrastructure.csproj|c:\\users\\admin\\desktop\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\coding\\datn_api\\datn.api\\datn.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34159D1-97EC-4AA5-8924-8EC927150203}|DATN.Infrastructure\\DATN.Infrastructure.csproj|solutionrelative:datn.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D92CDD-9EBC-405E-B384-42CBA4F133C1}|DATN.Domain\\DATN.Domain.csproj|c:\\users\\admin\\desktop\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\coding\\datn_api\\datn.api\\datn.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D92CDD-9EBC-405E-B384-42CBA4F133C1}|DATN.Domain\\DATN.Domain.csproj|solutionrelative:datn.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\Coding\\DATN_API\\DATN.Api\\MaHoa.Application\\Program.cs",
+              "RelativeDocumentMoniker": "MaHoa.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\Coding\\DATN_API\\DATN.Api\\MaHoa.Application\\Program.cs",
+              "RelativeToolTip": "MaHoa.Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:00:15.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\Coding\\DATN_API\\DATN.Api\\DATN.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "DATN.Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\Coding\\DATN_API\\DATN.Api\\DATN.Infrastructure\\Program.cs",
+              "RelativeToolTip": "DATN.Infrastructure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:51:23.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\Coding\\DATN_API\\DATN.Api\\DATN.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "DATN.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0110\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\Coding\\DATN_API\\DATN.Api\\DATN.Domain\\Program.cs",
+              "RelativeToolTip": "DATN.Domain\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:50:41.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
